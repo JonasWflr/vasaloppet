@@ -1,0 +1,4 @@
+name: env_vasaloppet
+channels:
+  - defaults
+prefix: /Users/jonas/opt/anaconda3/envs/env_vasaloppet
