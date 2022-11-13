@@ -1,4 +1,8 @@
 name: env_vasaloppet
 channels:
   - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - seaborn
 prefix: /Users/jonas/opt/anaconda3/envs/env_vasaloppet
